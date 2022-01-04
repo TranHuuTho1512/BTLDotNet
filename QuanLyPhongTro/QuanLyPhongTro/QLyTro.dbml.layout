@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="QLyTro">
+  <DataContextMoniker Name="/QLyTroDataContext" />
+  <nestedChildShapes>
+    <classShape Id="1374f890-9601-4bca-b495-9de2076329ac" absoluteBounds="0.75, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/QLyTroDataContext/tblChuTro" />
+      <nestedChildShapes>
+        <elementListCompartment Id="294dabff-092f-4bb9-929b-19e5147b2265" absoluteBounds="0.765, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6ebc4215-d5bd-43ac-a638-954db5a24e18" absoluteBounds="3.5, 1, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/QLyTroDataContext/tblPhong" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f00676ec-320b-4b53-bb43-f71b69f95f63" absoluteBounds="3.515, 1.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="97f5e804-3039-446f-b88d-7ef6b34fbc1a" absoluteBounds="6.25, 1, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/QLyTroDataContext/tblSinhVien" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e062db28-1f9e-44e8-9188-733965184c7c" absoluteBounds="6.265, 1.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.07774983723958); (3.5 : 2.07774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLyTroDataContext/tblChuTro/tblChuTro_tblPhong" />
+      <nodes>
+        <classShapeMoniker Id="1374f890-9601-4bca-b495-9de2076329ac" />
+        <classShapeMoniker Id="6ebc4215-d5bd-43ac-a638-954db5a24e18" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.07774983723958); (6.25 : 2.07774983723958)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/QLyTroDataContext/tblPhong/tblPhong_tblSinhVien" />
+      <nodes>
+        <classShapeMoniker Id="6ebc4215-d5bd-43ac-a638-954db5a24e18" />
+        <classShapeMoniker Id="97f5e804-3039-446f-b88d-7ef6b34fbc1a" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

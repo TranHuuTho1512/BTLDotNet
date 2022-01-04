@@ -1,0 +1,178 @@
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmMain.resources
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmSV.resources
+c:\users\admin\documents\visual studio 2015\Projects\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojAssemblyReference.cache
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmSV.resources
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+D:\BÀI TẬP LỚN\C#\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmSV.resources
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\Admin\Desktop\Ngày 14 tháng 6-20200615T031905Z-001\Ngày 14 tháng 6\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTroQLy.resources
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojAssemblyReference.cache
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTroQLy.resources
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmSV.resources
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+D:\BÀI TẬP LỚN\C#\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTrangChu.resources
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTroQLy.resources
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmSV.resources
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTrangChu.resources
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\Admin\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmHoaDon.resources
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojAssemblyReference.cache
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTroQLy.resources
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmHoaDon.resources
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\84906\Downloads\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSV.resources
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKPhong.resources
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSVAdmin.resources
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKCT.resources
+C:\Users\Admin\Desktop\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmThongTin.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojAssemblyReference.cache
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTroQLy.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmThongTin.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKCT.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKPhong.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSV.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSVAdmin.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.cache
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.CoreCompileInputs.cache
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\84906\Downloads\Ngay25_Thang6_Vũ\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmThongKeHoaDon.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTroQLy.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmThongTin.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKCT.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKPhong.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSV.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSVAdmin.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+C:\Users\Admin\Desktop\BTlonNgay29_Thang6\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTroQLy.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmThongTin.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKCT.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKPhong.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSV.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSVAdmin.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+D:\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe.config
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.exe
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.pdb
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.exe
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\bin\Debug\QuanLyPhongTro.pdb
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csprojResolveAssemblyReference.cache
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTro.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmChuTroQLy.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmDangNhap.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmPhong.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmQly.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmThongTin.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKCT.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKPhong.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSV.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.frmTKSVAdmin.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.Properties.Resources.resources
+D:\Đã học\.NET\BTlon\QuanLyPhongTro\QuanLyPhongTro\obj\Debug\QuanLyPhongTro.csproj.GenerateResource.Cache

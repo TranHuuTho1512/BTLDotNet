@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyTro" Class="QLyTroDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-8S5FT2K7;Initial Catalog=QuanLyTro;Integrated Security=True" SettingsObjectName="QuanLyPhongTro.Properties.Settings" SettingsPropertyName="QuanLyTroConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.tblChuTro" Member="tblChuTros">
+    <Type Name="tblChuTro">
+      <Column Name="IDChuTro" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenChuTro" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="CMNDChuTro" Type="System.String" DbType="NVarChar(15) NOT NULL" CanBeNull="false" />
+      <Column Name="DiaChiChuTro" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="SDTChuTro" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="EmailChuTro" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="TrangThaiChoThue" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Pass" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Association Name="tblChuTro_tblPhong" Member="tblPhongs" ThisKey="IDChuTro" OtherKey="IDChuTro" Type="tblPhong" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblPhong" Member="tblPhongs">
+    <Type Name="tblPhong">
+      <Column Name="IDPhong" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TrangThaiPhong" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="GiaPhong" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="SoLuongSVSong" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TenPhong" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="IDChuTro" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="NgayBatDau" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Association Name="tblPhong_tblSinhVien" Member="tblSinhViens" ThisKey="IDPhong" OtherKey="IDPhong" Type="tblSinhVien" />
+      <Association Name="tblChuTro_tblPhong" Member="tblChuTro" ThisKey="IDChuTro" OtherKey="IDChuTro" Type="tblChuTro" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.tblSinhVien" Member="tblSinhViens">
+    <Type Name="tblSinhVien">
+      <Column Name="MSSV" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenSV" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="QueQuanSV" Type="System.String" DbType="NVarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="SDTSV" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NamSinhSV" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TruongHoc" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="KhoaSV" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="IDPhong" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Association Name="tblPhong_tblSinhVien" Member="tblPhong" ThisKey="IDPhong" OtherKey="IDPhong" Type="tblPhong" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

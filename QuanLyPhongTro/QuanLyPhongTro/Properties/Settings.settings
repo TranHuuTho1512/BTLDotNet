@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QuanLyPhongTro.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="QuanLyTroConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=LAPTOP-IMENS42P\MSSQLSERVER01;Initial Catalog=QuanLyTro;Persist Security Info=True;User ID=sa;Password=sapassword&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=LAPTOP-IMENS42P\MSSQLSERVER01;Initial Catalog=QuanLyTro;Persist Security Info=True;User ID=sa;Password=sapassword</Value>
+    </Setting>
+    <Setting Name="QuanLyPhongTroConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-HV7HL4N\SQLEXPRESS;Initial Catalog=QuanLyPhongTro;User ID=sa;Password=sapassword&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-HV7HL4N\SQLEXPRESS;Initial Catalog=QuanLyPhongTro;User ID=sa;Password=sapassword</Value>
+    </Setting>
+    <Setting Name="QuanLyTro23Thang6ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-HV7HL4N\SQLEXPRESS;Initial Catalog=QuanLyTro23Thang6;User ID=sa;Password=sapassword&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-HV7HL4N\SQLEXPRESS;Initial Catalog=QuanLyTro23Thang6;User ID=sa;Password=sapassword</Value>
+    </Setting>
+    <Setting Name="QuanLyTro25Thang6ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-HV7HL4N\SQLEXPRESS;Initial Catalog=QuanLyTro25Thang6;User ID=sa;Password=sapassword&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-HV7HL4N\SQLEXPRESS;Initial Catalog=QuanLyTro25Thang6;User ID=sa;Password=sapassword</Value>
+    </Setting>
+    <Setting Name="QuanLyTro27Thang6ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-HV7HL4N\SQLEXPRESS;Initial Catalog=QuanLyTro27Thang6;User ID=sa;Password=sapassword&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-HV7HL4N\SQLEXPRESS;Initial Catalog=QuanLyTro27Thang6;User ID=sa;Password=sapassword</Value>
+    </Setting>
+    <Setting Name="QuanLyTroConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=LAPTOP-8S5FT2K7;Initial Catalog=QuanLyTro;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=LAPTOP-8S5FT2K7;Initial Catalog=QuanLyTro;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
